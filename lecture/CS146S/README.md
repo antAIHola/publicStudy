@@ -5,3 +5,8 @@
 본 강좌는 대형 언어 모델(LLM)이 주도하는 소프트웨어 개발 생명주기(SDLC)의 변화를 이해하고, 현대적인 AI 도구를 활용해 생산성을 극대화(10x 개발자)하는 방법을 다룹니다.
 
 전통적인 코드 작성 방식에서 벗어나 '계획 ➔ AI 생성 ➔ 수정 ➔ 반복'으로 진화한 새로운 워크플로우를 학습합니다.
+
+## 링크
+- [공식 링크](https://themodernsoftware.dev/)
+- [한글 번역](https://kr.themodernsoftware.dev/)
+- [한국어 번역 github](https://github.com/team-attention/stanford-cs146s-kr)
