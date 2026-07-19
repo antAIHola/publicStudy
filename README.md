@@ -1,2 +1,5 @@
-# publicStudy
-Ant AI Open Study Archive
+## 소개
+HOLA AI 스터디원들의 열정이 담긴 학습 자료와 공유 공간입니다. 함께 공부하고 성장하며 기록을 채워나갑니다.
+
+## 현재 기록 되고 있는 스터디 
+- CS146S (진행중)
